@@ -1,0 +1,6 @@
+node_modules/
+# Runtime data: never commit real school, student or payroll records
+data/
+*.tmp
+.env
+.env.*
